@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator & Scanner",
+  "description": "Generate customized QR codes (WiFi, Text, URL, Email) and scan QR and barcodes using your camera or file uploads. Controls colors, logos, downloads, and maintains history.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

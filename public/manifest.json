@@ -1,0 +1,22 @@
+{
+  "name": "Oculus QR Studio",
+  "short_name": "Oculus QR",
+  "description": "Premium offline-first QR Code & Matrix custom generator and scanner.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#aa8d65",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
